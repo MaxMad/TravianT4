@@ -129,7 +129,7 @@ if($session->gold >= 2) {
 		<tr>
 			<td>Description</td>
 			<td>Duration</td>
-			<td>Gold</td>
+			<td>Oro</td>
 			<td>Action</td>
 		</tr>
 	</thead>
