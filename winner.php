@@ -208,9 +208,7 @@ if($message->unread) {
 					<p>
 					<b>Dear <?php echo SERVER_NAME; ?> Players,</b>
 					<br /><br />
-					All good things must come to an end, and so too must this age. Once solomon was given a ring, upon which was inscribed a message that could take away all
-					the joys or sorrows of the world, that message was roughly translated "this too shall pass". It is both our joy and sorrow to announce to all Players that
-					this too has now passed! We hope you enjoyed your time with us as much as we enjoyed serving you and thank you for staying until the very end!<br /><br />
+					Todas las cosas buenas deben llegar a su fin, y también debe hacerlo esta edad. Una vez  Salomón le dio un anillo, sobre el cual fue inscrito un mensaje que podría quitar todo las alegrías o tristezas del mundo, ese mensaje fue traducido más o menos asi"esto también pasará". Es a la vez nuestro gozo y a la ves tristeza de anunciar a todos los jugadores que esto también ha pasado ahora! Esperamos que haya disfrutado de su tiempo con nosotros tanto como nosotros disfrutamos de servirle a usted y gracias por quedarse hasta el final!<br /><br />
 
 					The results: Day had long since passed into night, yet the workers in <?php echo "<a href=\"karte.php?d=$vref&c=".$generator->getMapCheck($vref)."\">$winningvillagename</a>"; ?>,
 					laboured on throught the wintery eve, every wary of the countless armies marching to destroy their work, knowing that they raced against time and the greatest
